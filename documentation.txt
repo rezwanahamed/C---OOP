@@ -1,0 +1,2 @@
+C++ cheat sheet "https://www.codewithharry.com/blogpost/cpp-cheatsheet/"
+my note https://coda.io/d/code-doc_dXZ7Yjc1Gfg/C-OOP-all-topic_susDJ#_luai4
